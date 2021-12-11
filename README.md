@@ -1,1 +1,1 @@
-# backgroundGenerator-simple
+# first JavaScript project ever.
