@@ -1,1 +1,1 @@
-# first JavaScript project ever.
+# first js bootcamp project ever.
